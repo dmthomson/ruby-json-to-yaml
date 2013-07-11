@@ -4,7 +4,7 @@ ruby-json-to-yaml
 Ruby Script that converts JSON to YAML
 
 #### Usage
-   git@github.com:dmthomson/ruby-json-to-yaml.git
+   git clone git@github.com:dmthomson/ruby-json-to-yaml.git
 
    cd ruby-json-to-yaml
   
