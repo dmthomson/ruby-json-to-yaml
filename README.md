@@ -1,4 +1,4 @@
-ruby-json-to-yaml
+ruby-json=>yaml
 =================
 
 Ruby Script that converts JSON to YAML
